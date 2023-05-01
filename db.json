@@ -1,0 +1,45 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "fruits": [
+    {
+      "id": 2,
+      "Name": "Pomme",
+      "Price": 15,
+      "Quantity": 200
+    },
+    {
+      "id": 3,
+      "Name": "melon",
+      "Price": 12,
+      "Quantity": 153
+    },
+    {
+      "id": 4,
+      "Name": "watermelon",
+      "Price": 70,
+      "Quantity": 25
+    },
+    {
+      "id": 7,
+      "Name": "cucumber",
+      "Price": 12,
+      "Quantity": 250
+    }
+  ]
+}
